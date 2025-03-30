@@ -1,0 +1,36 @@
+/* Не забудь подключить нужные шрифты. Удачи в разработке! */
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: blueviolet;
+}
+
+.button{
+    display: block;
+    width:100vw;
+    background-color: black;
+    text-align: center;
+    text-decoration: none;
+    color:grey;
+    padding: 10px 10px 10px;
+   
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+img{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto
+}
+div{
+    width:50vw;
+    height:50vh;
+}
